@@ -10,3 +10,7 @@ In this project I have created User registration Api which takes user details li
 - GET , POST , PUT , PATCH  and DELETE request routes
 
 ## Complete backend registration using RESTful Api 
+
+```
+Try Using Postman
+```
