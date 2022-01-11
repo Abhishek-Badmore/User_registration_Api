@@ -6,8 +6,9 @@ In this project I have created User registration Api which takes user details li
 ##Features
 
 - User input data Name , phone , work  , address , pass , confimpass
-- saving User data into mongoDB 
+- Saving User data into mongoDB 
 - Fetching data while login 
+- Update and Delete profile features
 - GET , POST , PUT , PATCH  and DELETE request routes
 
 ## Complete backend registration using RESTful Api 
