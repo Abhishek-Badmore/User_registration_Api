@@ -11,6 +11,5 @@ In this project I have created User registration Api which takes user details li
 
 ## Complete backend registration using RESTful Api 
 
-```
-Try Using Postman
-```
+## Try Using Postman
+
